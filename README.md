@@ -1,5 +1,7 @@
 # 999helper
-View all possible combinations of people that may go through a specific door in the DS game 999: 9 hours, 9 persons, 9 doors <br>
+View all possible combinations of people that may go through a specific door in the DS game 999: 9 hours, 9 persons, 9 doors
+###Why did you make this?
+Thats a valid question. I wanted to know what would happen in the story earlier than it actually did. This helped me with detective work and I could usually stay one step ahead of the story. Its a cool gimmick, and I like weird algo based questions. <br>
 ## Usage:
 Run "python dRoot.py" followed by a series of numbers as command line arguements on which people are to be checked.<br>
 Then the program will prompt you for the door number<br>
