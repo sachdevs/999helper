@@ -14,8 +14,7 @@ def dRoot(arr):
 	return add
 
 def powerset(arr):
-    s = arr
-    return chain.from_iterable(combinations(s, r) for r in range(len(s)+1))
+    return chain.from_iterable(combinations(arr, r) for r in range(len(arr)+1))
 
 def allCombos(arr, door):
 	pset = list(powerset(arr))
